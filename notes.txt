@@ -1,1 +1,2 @@
 Today I started learning git
+I learned about commits.
