@@ -1,2 +1,4 @@
 Today I started learning git
 I learned about commits.
+git is interesting .
+learning github today.
